@@ -53,7 +53,7 @@ rank = st.number_input("Enter your JEE Advanced Rank", min_value=1, step=1)
 margin = st.slider("Margin for nearby branches", min_value=50, max_value=1000, value=300, step=50)
 
 if st.button("Search"):
-    data = load_cutoff_data("cutoff_data")
+    data = load_cutoff_data("data")
     within, near_miss, close_open = find_branches_by_rank(rank, data, margin)
 
     if within:
