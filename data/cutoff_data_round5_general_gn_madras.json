@@ -1,0 +1,77 @@
+[
+  {
+    "branch": "Aerospace Engineering",
+    "opening": "1469",
+    "closing": "2815"
+  },
+  {
+    "branch": "Artificial Intelligence and Data Analytics",
+    "opening": "132",
+    "closing": "419"
+  },
+  {
+    "branch": "Biological Engineering",
+    "opening": "3135",
+    "closing": "5755"
+  },
+  {
+    "branch": "Chemical Engineering",
+    "opening": "2024",
+    "closing": "3972"
+  },
+  {
+    "branch": "Civil Engineering",
+    "opening": "3305",
+    "closing": "5688"
+  },
+  {
+    "branch": "Computer Science and Engineering",
+    "opening": "76",
+    "closing": "159"
+  },
+  {
+    "branch": "Electrical Engineering",
+    "opening": "299",
+    "closing": "838"
+  },
+  {
+    "branch": "Engineering Physics",
+    "opening": "931",
+    "closing": "1858"
+  },
+  {
+    "branch": "Mechanical Engineering",
+    "opening": "458",
+    "closing": "2310"
+  },
+  {
+    "branch": "Metallurgical and Materials Engineering",
+    "opening": "3770",
+    "closing": "4748"
+  },
+  {
+    "branch": "Naval Architecture and Ocean Engineering",
+    "opening": "4274",
+    "closing": "7404"
+  },
+  {
+    "branch": "Biological Science",
+    "opening": "8849",
+    "closing": "10682"
+  },
+  {
+    "branch": "Aerospace Engineering",
+    "opening": "2199",
+    "closing": "2984"
+  },
+  {
+    "branch": "Engineering Design",
+    "opening": "1828",
+    "closing": "3656"
+  },
+  {
+    "branch": "Physics",
+    "opening": "1292",
+    "closing": "2742"
+  }
+]

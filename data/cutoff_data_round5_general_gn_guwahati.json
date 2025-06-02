@@ -1,0 +1,62 @@
+[
+  {
+    "branch": "Biosciences and Bioengineering",
+    "opening": "7410",
+    "closing": "9178"
+  },
+  {
+    "branch": "Chemical Engineering",
+    "opening": "4618",
+    "closing": "5363"
+  },
+  {
+    "branch": "Chemical Science and Technology",
+    "opening": "5443",
+    "closing": "6834"
+  },
+  {
+    "branch": "Civil Engineering",
+    "opening": "5869",
+    "closing": "7670"
+  },
+  {
+    "branch": "Computer Science and Engineering",
+    "opening": "466",
+    "closing": "623"
+  },
+  {
+    "branch": "Data Science and Artificial Intelligence",
+    "opening": "829",
+    "closing": "995"
+  },
+  {
+    "branch": "Electronics and Communication Engineering",
+    "opening": "1462",
+    "closing": "1658"
+  },
+  {
+    "branch": "Electronics and Electrical Engineering",
+    "opening": "1686",
+    "closing": "2217"
+  },
+  {
+    "branch": "Energy Engineering",
+    "opening": "4960",
+    "closing": "5920"
+  },
+  {
+    "branch": "Engineering Physics",
+    "opening": "4302",
+    "closing": "5686"
+  },
+  {
+    "branch": "Mathematics and Computing",
+    "opening": "722",
+    "closing": "1021"
+  },
+  {
+    "branch": "Mechanical Engineering",
+    "opening": "3130",
+    "closing": "4523"
+  }
+]

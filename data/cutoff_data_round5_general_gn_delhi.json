@@ -1,0 +1,87 @@
+[
+  {
+    "branch": "Biotechnology and Biochemical Engineering",
+    "opening": "3677",
+    "closing": "4849"
+  },
+  {
+    "branch": "Chemical Engineering",
+    "opening": "1689",
+    "closing": "2221"
+  },
+  {
+    "branch": "Civil Engineering",
+    "opening": "2666",
+    "closing": "4169"
+  },
+  {
+    "branch": "Computer Science and Engineering",
+    "opening": "27",
+    "closing": "116"
+  },
+  {
+    "branch": "Electrical Engineering",
+    "opening": "382",
+    "closing": "625"
+  },
+  {
+    "branch": "Electrical Engineering with specialization in Power and Automation",
+    "opening": "646",
+    "closing": "810"
+  },
+  {
+    "branch": "Energy Engineering",
+    "opening": "1898",
+    "closing": "2707"
+  },
+  {
+    "branch": "Engineering and Computational Mechanics",
+    "opening": "890",
+    "closing": "1194"
+  },
+  {
+    "branch": "Engineering Physics",
+    "opening": "1845",
+    "closing": "2560"
+  },
+  {
+    "branch": "Materials Engineering",
+    "opening": "2422",
+    "closing": "3797"
+  },
+  {
+    "branch": "Mathematics and Computing",
+    "opening": "118",
+    "closing": "332"
+  },
+  {
+    "branch": "Mechanical Engineering",
+    "opening": "1225",
+    "closing": "1782"
+  },
+  {
+    "branch": "Production and Industrial Engineering",
+    "opening": "2452",
+    "closing": "3089"
+  },
+  {
+    "branch": "Textile Technology",
+    "opening": "4352",
+    "closing": "6102"
+  },
+  {
+    "branch": "Chemical Engineering",
+    "opening": "2629",
+    "closing": "3646"
+  },
+  {
+    "branch": "Computer Science and Engineering",
+    "opening": "128",
+    "closing": "204"
+  },
+  {
+    "branch": "Mathematics and Computing",
+    "opening": "339",
+    "closing": "417"
+  }
+]

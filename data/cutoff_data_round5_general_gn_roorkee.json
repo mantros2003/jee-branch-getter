@@ -1,0 +1,97 @@
+[
+  {
+    "branch": "Biosciences and Bioengineering",
+    "opening": "5871",
+    "closing": "7286"
+  },
+  {
+    "branch": "Chemical Engineering",
+    "opening": "3531",
+    "closing": "4689"
+  },
+  {
+    "branch": "Civil Engineering",
+    "opening": "4202",
+    "closing": "6293"
+  },
+  {
+    "branch": "Computer Science and Engineering",
+    "opening": "277",
+    "closing": "481"
+  },
+  {
+    "branch": "Data Science and Artificial Intelligence",
+    "opening": "503",
+    "closing": "680"
+  },
+  {
+    "branch": "Electrical Engineering",
+    "opening": "1495",
+    "closing": "2033"
+  },
+  {
+    "branch": "Electronics and Communication Engineering",
+    "opening": "987",
+    "closing": "1424"
+  },
+  {
+    "branch": "Energy Engineering",
+    "opening": "3834",
+    "closing": "4818"
+  },
+  {
+    "branch": "Engineering Physics",
+    "opening": "2456",
+    "closing": "3951"
+  },
+  {
+    "branch": "Mechanical Engineering",
+    "opening": "2526",
+    "closing": "3672"
+  },
+  {
+    "branch": "Metallurgical and Materials Engineering",
+    "opening": "6173",
+    "closing": "7051"
+  },
+  {
+    "branch": "Production and Industrial Engineering",
+    "opening": "4457",
+    "closing": "5365"
+  },
+  {
+    "branch": "Architecture",
+    "opening": "3105",
+    "closing": "19885"
+  },
+  {
+    "branch": "Geological Technology",
+    "opening": "7985",
+    "closing": "9977"
+  },
+  {
+    "branch": "Geophysical Technology",
+    "opening": "6436",
+    "closing": "9210"
+  },
+  {
+    "branch": "Chemical Sciences",
+    "opening": "8062",
+    "closing": "11647"
+  },
+  {
+    "branch": "Economics",
+    "opening": "3233",
+    "closing": "5312"
+  },
+  {
+    "branch": "Mathematics & Computing",
+    "opening": "1089",
+    "closing": "1512"
+  },
+  {
+    "branch": "Physics",
+    "opening": "6021",
+    "closing": "9079"
+  }
+]

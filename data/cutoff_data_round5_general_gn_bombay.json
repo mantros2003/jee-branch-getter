@@ -1,0 +1,77 @@
+[
+  {
+    "branch": "Aerospace Engineering",
+    "opening": "817",
+    "closing": "2394"
+  },
+  {
+    "branch": "Chemical Engineering",
+    "opening": "650",
+    "closing": "2545"
+  },
+  {
+    "branch": "Civil Engineering",
+    "opening": "2244",
+    "closing": "4046"
+  },
+  {
+    "branch": "Computer Science and Engineering",
+    "opening": "1",
+    "closing": "68"
+  },
+  {
+    "branch": "Electrical Engineering",
+    "opening": "15",
+    "closing": "496"
+  },
+  {
+    "branch": "Energy Engineering",
+    "opening": "1905",
+    "closing": "2689"
+  },
+  {
+    "branch": "Engineering Physics",
+    "opening": "197",
+    "closing": "1719"
+  },
+  {
+    "branch": "Environmental Science and Engineering",
+    "opening": "3424",
+    "closing": "4718"
+  },
+  {
+    "branch": "Industrial Engineering and Operations Research",
+    "opening": "1042",
+    "closing": "1726"
+  },
+  {
+    "branch": "Mechanical Engineering",
+    "opening": "666",
+    "closing": "1685"
+  },
+  {
+    "branch": "Metallurgical Engineering and Materials Science",
+    "opening": "2690",
+    "closing": "4193"
+  },
+  {
+    "branch": "Chemistry",
+    "opening": "5629",
+    "closing": "7430"
+  },
+  {
+    "branch": "Economics",
+    "opening": "1562",
+    "closing": "2408"
+  },
+  {
+    "branch": "Mathematics",
+    "opening": "631",
+    "closing": "1191"
+  },
+  {
+    "branch": "Electrical Engineering",
+    "opening": "536",
+    "closing": "973"
+  }
+]

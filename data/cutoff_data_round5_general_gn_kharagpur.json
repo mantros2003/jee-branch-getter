@@ -1,0 +1,117 @@
+[
+  {
+    "branch": "Aerospace Engineering",
+    "opening": "2716",
+    "closing": "4745"
+  },
+  {
+    "branch": "Agricultural and Food Engineering",
+    "opening": "5515",
+    "closing": "10770"
+  },
+  {
+    "branch": "Artificial Intelligence",
+    "opening": "467",
+    "closing": "898"
+  },
+  {
+    "branch": "Biotechnology and Biochemical Engineering",
+    "opening": "5505",
+    "closing": "7972"
+  },
+  {
+    "branch": "Chemical Engineering",
+    "opening": "3905",
+    "closing": "4848"
+  },
+  {
+    "branch": "Civil Engineering",
+    "opening": "4902",
+    "closing": "6992"
+  },
+  {
+    "branch": "Computer Science and Engineering",
+    "opening": "226",
+    "closing": "415"
+  },
+  {
+    "branch": "Electrical Engineering",
+    "opening": "1460",
+    "closing": "2016"
+  },
+  {
+    "branch": "Electronics and Electrical Communication Engineering",
+    "opening": "516",
+    "closing": "1448"
+  },
+  {
+    "branch": "Industrial and Systems Engineering",
+    "opening": "2915",
+    "closing": "4364"
+  },
+  {
+    "branch": "Instrumentation Engineering",
+    "opening": "2022",
+    "closing": "2481"
+  },
+  {
+    "branch": "Manufacturing Science and Engineering",
+    "opening": "4649",
+    "closing": "6067"
+  },
+  {
+    "branch": "Mechanical Engineering",
+    "opening": "2160",
+    "closing": "3613"
+  },
+  {
+    "branch": "Metallurgical and Materials Engineering",
+    "opening": "5472",
+    "closing": "7104"
+  },
+  {
+    "branch": "Mining Engineering",
+    "opening": "7431",
+    "closing": "10218"
+  },
+  {
+    "branch": "Ocean Engineering and Naval Architecture",
+    "opening": "7876",
+    "closing": "9098"
+  },
+  {
+    "branch": "Applied Geology",
+    "opening": "10069",
+    "closing": "12893"
+  },
+  {
+    "branch": "Chemistry",
+    "opening": "7869",
+    "closing": "12488"
+  },
+  {
+    "branch": "Economics",
+    "opening": "3176",
+    "closing": "5263"
+  },
+  {
+    "branch": "Exploration Geophysics",
+    "opening": "9996",
+    "closing": "12413"
+  },
+  {
+    "branch": "Mathematics and Computing",
+    "opening": "971",
+    "closing": "1329"
+  },
+  {
+    "branch": "Physics",
+    "opening": "2957",
+    "closing": "9672"
+  },
+  {
+    "branch": "Architecture",
+    "opening": "16634",
+    "closing": "20427"
+  }
+]

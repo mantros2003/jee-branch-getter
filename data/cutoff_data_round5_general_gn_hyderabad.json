@@ -1,0 +1,77 @@
+[
+  {
+    "branch": "Artificial Intelligence",
+    "opening": "685",
+    "closing": "875"
+  },
+  {
+    "branch": "Biomedical Engineering",
+    "opening": "6579",
+    "closing": "8493"
+  },
+  {
+    "branch": "Biotechnology and Bioinformatics",
+    "opening": "6015",
+    "closing": "8524"
+  },
+  {
+    "branch": "Chemical Engineering",
+    "opening": "4229",
+    "closing": "5757"
+  },
+  {
+    "branch": "Civil Engineering",
+    "opening": "7053",
+    "closing": "7898"
+  },
+  {
+    "branch": "Computational Engineering",
+    "opening": "1046",
+    "closing": "1790"
+  },
+  {
+    "branch": "Computer Science and Engineering",
+    "opening": "431",
+    "closing": "656"
+  },
+  {
+    "branch": "Electrical Engineering",
+    "opening": "1022",
+    "closing": "2105"
+  },
+  {
+    "branch": "Electrical Engineering with specialization in IC Design and Technology",
+    "opening": "1570",
+    "closing": "2147"
+  },
+  {
+    "branch": "Engineering Physics",
+    "opening": "3442",
+    "closing": "4932"
+  },
+  {
+    "branch": "Engineering Science",
+    "opening": "1822",
+    "closing": "3835"
+  },
+  {
+    "branch": "Industrial Chemistry",
+    "opening": "8178",
+    "closing": "9551"
+  },
+  {
+    "branch": "Materials Science and Metallurgical Engineering",
+    "opening": "5105",
+    "closing": "8197"
+  },
+  {
+    "branch": "Mathematics and Computing",
+    "opening": "660",
+    "closing": "982"
+  },
+  {
+    "branch": "Mechanical Engineering",
+    "opening": "3751",
+    "closing": "4469"
+  }
+]
