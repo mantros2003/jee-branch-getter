@@ -70,8 +70,9 @@ def find_desired_branches(rank, cutoff_data, margin):
 # --- UI ---
 st.set_page_config(page_title="JEE Branch Predictor", layout="wide")
 st.title("🔍 JEE Advanced Branch Predictor (2024 Round 5 - Gen, Gender Neutral)")
-st.badge("Note", color="Red", icon=":material/report:")
-st.text("Current dataset only has 2024 GENERAL GENDER-NEUTRAL Round 5 cutoffs")
+st.markdown(
+    ":red-badge[:material/warning: NOTE] The current dataset is only for 2024 GENERAL GENDER-NEUTRAL Round 5 cutoffs"
+)
 
 rank = st.number_input("Enter your JEE Advanced Rank", min_value=1992, step=1)
 margin = st.slider("Margin for nearby branches", min_value=50, max_value=1000, value=250, step=50)
