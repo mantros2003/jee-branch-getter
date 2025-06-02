@@ -95,4 +95,4 @@ if st.button("Search"):
 
     if desired:
         st.subheader("⭐️ Desired Branches")
-        st.dataframe(close_open, use_container_width=True)
+        st.dataframe(desired, use_container_width=True)
