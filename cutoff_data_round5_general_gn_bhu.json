@@ -1,0 +1,127 @@
+[
+  {
+    "branch": "Ceramic Engineering",
+    "opening": "10504",
+    "closing": "12154"
+  },
+  {
+    "branch": "Chemical Engineering",
+    "opening": "5715",
+    "closing": "7757"
+  },
+  {
+    "branch": "Civil Engineering",
+    "opening": "7809",
+    "closing": "9339"
+  },
+  {
+    "branch": "Computer Science and Engineering",
+    "opening": "667",
+    "closing": "1071"
+  },
+  {
+    "branch": "Electrical Engineering",
+    "opening": "2852",
+    "closing": "3608"
+  },
+  {
+    "branch": "Electronics Engineering",
+    "opening": "2110",
+    "closing": "2826"
+  },
+  {
+    "branch": "Mechanical Engineering",
+    "opening": "4029",
+    "closing": "6596"
+  },
+  {
+    "branch": "Metallurgical Engineering",
+    "opening": "7717",
+    "closing": "10740"
+  },
+  {
+    "branch": "Mining Engineering",
+    "opening": "10803",
+    "closing": "12876"
+  },
+  {
+    "branch": "Pharmaceutical Engineering & Technology",
+    "opening": "11311",
+    "closing": "13562"
+  },
+  {
+    "branch": "Architecture",
+    "opening": "20507",
+    "closing": "22390"
+  },
+  {
+    "branch": "Biochemical Engineering and M.Tech. in Biochemical Engineering and Biotechnology",
+    "opening": "10717",
+    "closing": "12761"
+  },
+  {
+    "branch": "Bioengineering and M.Tech. in Biomedical Technology",
+    "opening": "11279",
+    "closing": "14001"
+  },
+  {
+    "branch": "Ceramic Engineering",
+    "opening": "12260",
+    "closing": "13931"
+  },
+  {
+    "branch": "Civil Engineering",
+    "opening": "8533",
+    "closing": "10583"
+  },
+  {
+    "branch": "Computer Science and Engineering",
+    "opening": "1120",
+    "closing": "1510"
+  },
+  {
+    "branch": "Electrical Engineering and M.Tech. in Power Electronics",
+    "opening": "3826",
+    "closing": "4619"
+  },
+  {
+    "branch": "Engineering Physics",
+    "opening": "6196",
+    "closing": "7764"
+  },
+  {
+    "branch": "Industrial Chemistry",
+    "opening": "10813",
+    "closing": "12317"
+  },
+  {
+    "branch": "Materials Science and Technology",
+    "opening": "8540",
+    "closing": "12524"
+  },
+  {
+    "branch": "Mathematics and Computing",
+    "opening": "1538",
+    "closing": "2154"
+  },
+  {
+    "branch": "Mechanical Engineering",
+    "opening": "6689",
+    "closing": "7497"
+  },
+  {
+    "branch": "Metallurgical Engineering",
+    "opening": "10791",
+    "closing": "11530"
+  },
+  {
+    "branch": "Mining Engineering",
+    "opening": "12958",
+    "closing": "14557"
+  },
+  {
+    "branch": "Pharmaceutical Engineering and Technology",
+    "opening": "13669",
+    "closing": "14463"
+  }
+]
