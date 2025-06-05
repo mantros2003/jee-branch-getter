@@ -99,3 +99,25 @@ if st.button("Search"):
     if desired:
         st.subheader("⭐️ Desired Branches")
         st.dataframe(desired, use_container_width=True)
+
+st.header("📚 Explore IIT Curriculum")
+
+# Mapping IIT names to their curriculum URLs (expand as needed)
+iit_links = {
+    "IIT Bombay": "https://portal.iitb.ac.in/asc/Courses",
+    "IIT Delhi": "https://home.iitd.ac.in/uploads/UG%20Programme%20Rules/CoS%202024__UG%20Programme%20Rules.pdf",
+    "IIT Kanpur": "https://www.iitk.ac.in/doaa/courses-of-study-aug-24",
+    "IIT Kharagpur": "https://erp.iitkgp.ac.in/ERPWebServices/curricula/specialisationList_new_curr.jsp?stuType=UG",
+    "IIT Madras": "https://www.iitm.ac.in/sites/default/files/Academic%20Curricula%20Files/Curriculum_-_2024_Batch_B.Tech_Version_1.pdf",
+    "IIT Roorkee": "https://acad.iitr.ac.in/Varsity/UGProgrammes_new1.html",
+    "IIT Guwahati": "https://iitg.ac.in/acad/CourseStructure/Btech2018/btech.php",
+    "IIT Hyderabad": "https://www.iith.ac.in/assets/files/pdf/Courses-of-Study-Bachelors.pdf",
+    "IIT BHU": "https://prev.iitbhu.ac.in/deans/doaa/academic/courses/ug/btech"
+    # Add more as needed
+}
+
+selected_iit = st.selectbox("Select an IIT to view its course curriculum", list(iit_links.keys()))
+
+if selected_iit:
+    if st.button(f"Go to {selected_iit}'s Curriculum"):
+        st.markdown(f"[Click here to view {selected_iit}'s curriculum]({iit_links[selected_iit]})", unsafe_allow_html=True)
