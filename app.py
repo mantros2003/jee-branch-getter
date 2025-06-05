@@ -70,6 +70,7 @@ def find_desired_branches(rank, cutoff_data, margin):
 # --- UI ---
 st.set_page_config(page_title="JEE Branch Predictor", layout="wide")
 st.title("🔍 JEE Advanced Branch Predictor (2024 Round 5 - Gen, Gender Neutral)")
+st.sidebar.markdown("### 👈 Use this sidebar to explore features!")
 st.markdown(
     ":red-badge[:material/warning: NOTE] The current dataset is only for 2024 GENERAL GENDER-NEUTRAL Round 5 cutoffs"
 )
