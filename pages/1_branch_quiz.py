@@ -76,7 +76,7 @@ if st.button("🔍 Find Best-Fit Branches"):
         scores["Mechanical Engineering"] += 1
     elif q4 == "Both":
         scores["Electrical Engineering"] += 1
-        scores["Math and Computing"] += 1
+        scores["Mathematics and Computing"] += 1
 
     if q5 == "Very important":
         scores["Computer Science"] += 2
@@ -84,8 +84,10 @@ if st.button("🔍 Find Best-Fit Branches"):
     elif q5 == "Somewhat":
         scores["Electrical Engineering"] += 1
         scores["Mechanical Engineering"] += 1
+        scores["Chemical Engineering"] += 1
     elif q5 == "Not really":
         scores["Engineering Physics"] += 1
+        scores["Civil Engineering"] += 1
         scores["Biotechnology"] += 1
 
     # Sort and display top 3
