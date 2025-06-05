@@ -4,6 +4,17 @@ st.set_page_config(page_title="Branch Interest Quiz")
 
 st.header("🧠 Find Your Ideal Engineering Branch")
 
+branch_scores = {
+    "Computer Science": 0,
+    "Electrical Engineering": 0,
+    "Mechanical Engineering": 0,
+    "Civil Engineering": 0,
+    "Chemical Engineering": 0,
+    "Engineering Physics": 0,
+    "Biotechnology": 0,
+    "Mathematics and Computing": 0,
+}
+
 q1 = st.radio("1. What kind of problems do you enjoy solving?", [
     "Logical puzzles", "Real-world physical systems", "Electrical gadgets", "Chemical reactions"])
 
