@@ -74,7 +74,7 @@ st.markdown(
     ":red-badge[:material/warning: NOTE] The current dataset is only for 2024 GENERAL GENDER-NEUTRAL Round 5 cutoffs"
 )
 
-rank = st.number_input("Enter your JEE Advanced Rank", min_value=1992, step=1)
+rank = st.number_input("Enter your JEE Advanced Rank", min_value=0, step=1)
 margin = st.slider("Margin for nearby branches", min_value=50, max_value=1000, value=250, step=50)
 
 if st.button("Search"):
